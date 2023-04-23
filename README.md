@@ -1,4 +1,4 @@
-# clumsy
+# deisatan.reg
 
 __that shit is for anti-laggers, not for laggers. .__
 
