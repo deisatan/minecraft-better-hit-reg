@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{B849614A-A5F3-4A5F-ADEF-99DDB3DDF718}]
+
+"TcpAckFrequency"=dword:1
+
+"TCPNoDelay "=dword:2
+"TcpDelAckTicks"=dword:0
+
+"TCPInitialRtt"=dword:0000012c
+
+
+
+
+
+
